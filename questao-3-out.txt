@@ -1,0 +1,47 @@
+Bem-vindo ao Programa de Serviços de Limpeza do Sdtonny2013
+********************************************************************************
+------------------------ Menu 1 de 3 - Metragem Limpeza ------------------------
+Entre com a metragem da casa: 20
+!! Não aceitamos casas com metragem menor que 30m² ou maior que 700m² !!
+Entre com a metragem da casa: 500
+********************************************************************************
+------------------------ Menu 2 de 3 - Tipo de Limpeza -------------------------
+Entre com o tipo de Limpeza:
+B - Básica - Indicada para sujeiras semanais ou quinzenais
+C - Completa - Indicada para sujeiras antigas e/ou não rotineiras
+A
+!!!!!!! Opção Inválida !!!!!!!
+Entre com o tipo de Limpeza:
+B - Básica - Indicada para sujeiras semanais ou quinzenais
+C - Completa - Indicada para sujeiras antigas e/ou não rotineiras
+C
+Você selecionou a limpeza COMPLETA
+********************************************************************************
+---------------------- Menu 3 de 3 - Adicional de Limpeza ----------------------
+Deseja mais algum adicional?
+0- Não desejo mais nada (encerrar)
+1- Passar 10 peças de roupas - R$ 10.00
+2- Limpeza de 1 Forno/Micro-ondas - R$ 12,00
+3- Limpeza de 1 Geladeira/Freezer - R$ 20,00
+>>1
+Deseja mais algum adicional?
+0- Não desejo mais nada (encerrar)
+1- Passar 10 peças de roupas - R$ 10.00
+2- Limpeza de 1 Forno/Micro-ondas - R$ 12,00
+3- Limpeza de 1 Geladeira/Freezer - R$ 20,00
+>>2
+Deseja mais algum adicional?
+0- Não desejo mais nada (encerrar)
+1- Passar 10 peças de roupas - R$ 10.00
+2- Limpeza de 1 Forno/Micro-ondas - R$ 12,00
+3- Limpeza de 1 Geladeira/Freezer - R$ 20,00
+>>3
+Deseja mais algum adicional?
+0- Não desejo mais nada (encerrar)
+1- Passar 10 peças de roupas - R$ 10.00
+2- Limpeza de 1 Forno/Micro-ondas - R$ 12,00
+3- Limpeza de 1 Geladeira/Freezer - R$ 20,00
+>>0
+********************************************************************************
+TOTAL: R$ 523.00 + (metragem: 370.00 * tipo: 1.30 + adicional: 42.00)
+********************************************************************************

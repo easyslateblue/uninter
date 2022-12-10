@@ -1,0 +1,5 @@
+Bem-vindo a Loja do Sdtonny2013
+Entre com valor do produto: 0.80
+Entre com valor do quantidade: 1001
+O valor sem frete foi: R$ 800.80
+O valor com frete foi: R$ 1040.80  (frete de R$ 240.00)

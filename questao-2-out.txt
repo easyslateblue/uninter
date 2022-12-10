@@ -1,0 +1,23 @@
+Bem-Vindo a Sorveteria do Sdtonny2013
+Entre com o TAMANHO do pote desejada (P/M/G): A
+Entre com o CÓDIGO do sabor desejado (TR/ES/PR): TR
+!!!!!!!  TAMANHO ou CÓDIGO INVÁLIDO(S) !!!!!!!
+Entre com o TAMANHO do pote desejada (P/M/G): P
+Entre com o CÓDIGO do sabor desejado (TR/ES/PR): B
+!!!!!!!  TAMANHO ou CÓDIGO INVÁLIDO(S) !!!!!!!
+Entre com o TAMANHO do pote desejada (P/M/G): P
+Entre com o CÓDIGO do sabor desejado (TR/ES/PR): TR
+Você pediu um sorvete sabor TRADICIONAL P de R$ 6,00
+------------------------------------------------------
+Deseja pedir mais alguma coisa? (S/N): S
+Entre com o TAMANHO do pote desejada (P/M/G): M
+Entre com o CÓDIGO do sabor desejado (TR/ES/PR): ES
+Você pediu um sorvete sabor ESPECIAL M de R$ 12,00
+------------------------------------------------------
+Deseja pedir mais alguma coisa? (S/N): S
+Entre com o TAMANHO do pote desejada (P/M/G): G
+Entre com o CÓDIGO do sabor desejado (TR/ES/PR): PR
+Você pediu um sorvete sabor PREMIUM G de R$ 24,00
+------------------------------------------------------
+Deseja pedir mais alguma coisa? (S/N): N
+O total a ser pago é: 42.00
