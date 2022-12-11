@@ -1,0 +1,144 @@
+Bem-vindo ao Controle de Funcionários do Sdtonny2013
+********************************************************************************
+-------------------------------- MENU PRINCIPAL --------------------------------
+Escolha a opção desejada:
+1-Cadastrar Funcionário
+2-Consultar Funcionário(s)
+3-Remover Funcionário
+4-Sair
+>>1
+********************************************************************************
+-------------------------- MENU CADASTRAR FUNCIONÁRIO --------------------------
+Código do Funcionario 1
+Por favor entre com o NOME: func1
+Por favor entre com o SETOR: A
+Por favor entre com o SALÁRIO (R$): 10000
+********************************************************************************
+-------------------------------- MENU PRINCIPAL --------------------------------
+Escolha a opção desejada:
+1-Cadastrar Funcionário
+2-Consultar Funcionário(s)
+3-Remover Funcionário
+4-Sair
+>>1
+********************************************************************************
+-------------------------- MENU CADASTRAR FUNCIONÁRIO --------------------------
+Código do Funcionario 2
+Por favor entre com o NOME: func2
+Por favor entre com o SETOR: A
+Por favor entre com o SALÁRIO (R$): 12000
+********************************************************************************
+-------------------------------- MENU PRINCIPAL --------------------------------
+Escolha a opção desejada:
+1-Cadastrar Funcionário
+2-Consultar Funcionário(s)
+3-Remover Funcionário
+4-Sair
+>>1
+********************************************************************************
+-------------------------- MENU CADASTRAR FUNCIONÁRIO --------------------------
+Código do Funcionario 3
+Por favor entre com o NOME: func3
+Por favor entre com o SETOR: B
+Por favor entre com o SALÁRIO (R$): 13000
+********************************************************************************
+-------------------------------- MENU PRINCIPAL --------------------------------
+Escolha a opção desejada:
+1-Cadastrar Funcionário
+2-Consultar Funcionário(s)
+3-Remover Funcionário
+4-Sair
+>>2
+********************************************************************************
+-------------------------- MENU CONSULTAR FUNCIONÁRIO --------------------------
+Escolha a opção desejada:
+1-Consultar todos os Funcionários
+2-Consultar Funcionários por ID
+3-Consultar Funcionários por SETOR
+4-Retornar
+>>1
+------------------------------
+id : 1
+nome : func1
+setor : A
+salario : 10000.0
+id : 2
+nome : func2
+setor : A
+salario : 12000.0
+id : 3
+nome : func3
+setor : B
+salario : 13000.0
+------------------------------
+Escolha a opção desejada:
+1-Consultar todos os Funcionários
+2-Consultar Funcionários por ID
+3-Consultar Funcionários por SETOR
+4-Retornar
+>>2
+Digite o ID do funcionário: 2
+------------------------------
+id : 2
+nome : func2
+setor : A
+salario : 12000.0
+------------------------------
+Escolha a opção desejada:
+1-Consultar todos os Funcionários
+2-Consultar Funcionários por ID
+3-Consultar Funcionários por SETOR
+4-Retornar
+>>3
+Digite o setor do(s) funcionário(s): A
+------------------------------
+nome : func1
+setor : A
+salario : 10000.0
+------------------------------
+nome : func2
+setor : A
+salario : 12000.0
+------------------------------
+Escolha a opção desejada:
+1-Consultar todos os Funcionários
+2-Consultar Funcionários por ID
+3-Consultar Funcionários por SETOR
+4-Retornar
+>>4
+********************************************************************************
+-------------------------------- MENU PRINCIPAL --------------------------------
+Escolha a opção desejada:
+1-Cadastrar Funcionário
+2-Consultar Funcionário(s)
+3-Remover Funcionário
+4-Sair
+>>3
+********************************************************************************
+Digite o código do funcionário a ser removido: 2
+********************************************************************************
+-------------------------------- MENU PRINCIPAL --------------------------------
+Escolha a opção desejada:
+1-Cadastrar Funcionário
+2-Consultar Funcionário(s)
+3-Remover Funcionário
+4-Sair
+>>2
+********************************************************************************
+-------------------------- MENU CONSULTAR FUNCIONÁRIO --------------------------
+Escolha a opção desejada:
+1-Consultar todos os Funcionários
+2-Consultar Funcionários por ID
+3-Consultar Funcionários por SETOR
+4-Retornar
+>>1
+------------------------------
+id : 1
+nome : func1
+setor : A
+salario : 10000.0
+id : 3
+nome : func3
+setor : B
+salario : 13000.0
+------------------------------
