@@ -55,7 +55,7 @@ def adicional_limpeza():
       print("!! Insira um número de 0 a 3 !!")
   return total
 
-print("Bem-vindo ao Programa de Serviços de Limpeza do Sdtonny2013")
+print("Bem-vindo ao Programa de Serviços de Limpeza do Tonny André")
 print("********************************************************************************")
 print("------------------------ Menu 1 de 3 - Metragem Limpeza ------------------------")
 metragem = metragem_limpeza()
