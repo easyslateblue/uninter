@@ -1,4 +1,4 @@
-print("Bem-vindo a Loja do Sdtonny2013")
+print("Bem-vindo a Loja do Tonny Andre")
 valor = float(input("Entre com valor do produto: "))
 qt = float(input("Entre com valor do quantidade: "))
 if qt >= 0 and qt < 11:
