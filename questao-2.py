@@ -1,6 +1,6 @@
 total = 0.0
 ans = ""
-print("Bem-Vindo a Sorveteria do Sdtonny2013")
+print("Bem-Vindo a Sorveteria do Tonny André")
 while(True):
   tam = input("Entre com o TAMANHO do pote desejada (P/M/G): ")
   cod = input("Entre com o CÓDIGO do sabor desejado (TR/ES/PR): ")
