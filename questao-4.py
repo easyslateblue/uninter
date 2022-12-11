@@ -58,7 +58,7 @@ def remover_funcionario():
   cod = int(input("Digite o código do funcionário a ser removido: "))
   funcionarios.pop(cod);
 
-print("Bem-vindo ao Controle de Funcionários do Sdtonny2013")
+print("Bem-vindo ao Controle de Funcionários do Tonny André")
 
 while(True):
   print("********************************************************************************")
